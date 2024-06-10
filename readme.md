@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace-cltr&label=Profile%20views&color=0e75b6&style=flat" alt="ace-cltr" /> </p>
 
-<img align="right" width="400" src="https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif" alt="coding">
+<img align="right" width="400" src="https://i.imgur.com/7A5ZfPJ.gif" alt="coding">
 - 🌱 I’m currently learning Next.js, python & DSA
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**

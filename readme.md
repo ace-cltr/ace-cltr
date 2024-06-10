@@ -1,33 +1,31 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ace-cltr&theme=tokyonight&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ace-cltr&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm sumit rawat</h1>
+<h1 align="center">Hi 👋, I'm Anand Vishwakarma</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace-cltr&label=Profile%20views&color=0e75b6&style=flat" alt="ace-cltr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ace-cltr" alt="ace-cltr" /></a> </p>
-
 <img align="right" width="400" src="https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif" alt="coding">
-- 🌱 I’m currently learning **next js,DSA**
+- 🌱 I’m currently learning Next.js, python & DSA
 
-- 👯 I’m looking to collaborate on **MERN Stack Project**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://sumit-rawat-portfolio.onrender.com](https://sumit-rawat-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-ace.vercel.app/](https://portfolio-ace.vercel.app/)
 
-- 💬 Ask me about **Reactjs, Nodejs, Express, MongoDB, Javascript , Redux , Redux-Toolkit**
+- 💬 Ask me about **React.js, Javascript, Node.js, Express, MongoDB, SQL , Redux , Redux-Toolkit**
 
-- 📫 How to reach me **sumitrawat1102000@gmail.com**
+- 📫 How to reach me anand.vish201@gmail.com
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rRqdOFM2gBxFUA30oRPTwdPSCJM8f2T1/view?usp=sharing](https://drive.google.com/file/d/1rRqdOFM2gBxFUA30oRPTwdPSCJM8f2T1/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1roTsSbdIOtUVJDNfD9K0ikictE_fVCtm/view?usp=sharing](https://drive.google.com/file/d/1roTsSbdIOtUVJDNfD9K0ikictE_fVCtm/view?usp=sharing)
 
-- ⚡ Fun fact **I think i am funny 😎**
+<!-- - ⚡ Fun fact I think i am funny 😎** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sumit-rawat-419b8321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-rawat-419b8321b/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100066165454663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumit rawat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sumitrawat6216/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit rawat" height="30" width="40" /></a>
-<a href="https://leetcode.com/sumitrawat1102000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit rawat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anand-vishwakarma-87a57a276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anand-vishwakarma-87a57a276" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anand.vishwakarma.1042/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anand_fb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_anand.vish_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anand" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ACE201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
